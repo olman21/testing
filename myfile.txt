@@ -1,3 +1,4 @@
 This would be source code not edited
 other branch edited
 other line added and stuff like that.
+after stash
