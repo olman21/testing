@@ -5,3 +5,4 @@ some interesting stuff
 after stash
 a modify this
 other changes
+edited in my local enviroment
