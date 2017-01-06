@@ -1,5 +1,7 @@
 This would be source code not edited
 other branch edited
 other line added and stuff like that.
+some interesting stuff
 after stash
+a modify this
 other changes
